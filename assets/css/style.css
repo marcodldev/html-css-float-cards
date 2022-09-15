@@ -62,12 +62,8 @@
     line-height: 40px;
     float: left;
     box-shadow: 2px 1px 13px 5px grey;
-
-
-    /* Poverata  */
     width: 31%;
-    margin-right: 30px;
-    
+    margin-right: 30px;  
     
  }
 
@@ -105,3 +101,5 @@
         margin-bottom: 25px;
 
     }
+
+      /* Fine CSS Body  */
