@@ -1,8 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
+
 /* Reset browser impostazioni di default */
 
 *{
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
+    box-sizing: border-box;   
  }
  
+ body {
+
+    width: 60%;
+    margin: auto;
+
+ }
+
+ h1 {
+
+    color: rgb(236, 52, 138);
+    font-family: 'Kanit', sans-serif;
+    font-size: xxx-large;
+    padding-bottom: 40px;
+
+ }
+
+ header {
+
+    text-align: center;
+    padding: 60px;
+    font-size: xx-large;
+ }
