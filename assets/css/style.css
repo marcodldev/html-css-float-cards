@@ -9,12 +9,7 @@
     box-sizing: border-box;   
  }
  
- body {
-
-    width: 60%;
-    margin: auto;
-
- }
+  /* CSS Header  */
 
  h1 {
 
@@ -30,4 +25,44 @@
     text-align: center;
     padding: 60px;
     font-size: xx-large;
+ }
+
+    /* Fine CSS Header */
+
+    /* CSS Body  */
+
+  body {
+
+    width: 60%;
+    margin: auto;
+
+ }
+
+.clearfix::after {
+
+    content: "";
+    display: table;
+    clear: both;
+
+}
+
+
+ .column {
+/* 
+    background-color: black; */
+
+ }
+
+
+ img {
+
+    float: left;
+    padding: 10px;
+
+ }
+
+ h2 {
+
+    font-family: 'Kanit', sans-serif;
+
  }
